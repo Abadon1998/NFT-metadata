@@ -9,8 +9,8 @@ There are several steps:
 - e.g. https://moonbears.mypinata.cloud/ipfs/QmXMJ8Eysnx9Qwk1Wozv7UbGKvwr7r7sP2oUg5gwEd3z9R/
 - If this URL is a IPFS URL then only copy the end sequence e.g. QmXMJ8Eysnx9Qwk1Wozv7UbGKvwr7r7sP2oUg5gwEd3z9R
 
-3)Enter the supply and the starting ID of the first token\n
-4)If using a base URL (unique) change the input of the **test_url** function to base_url, if IPFS URL then use ipfs_url\n
+3)Enter the supply and the starting ID of the first token<br>
+4)If using a base URL (unique) change the input of the **test_url** function to base_url, if IPFS URL then use ipfs_url<br>
 5)Do the same for the **scrape_metadata** function in the cell below.
 6)Ensure the correct email address and password is selected and the relavent recipient is inputed.
 7)Run all cells and check email address
