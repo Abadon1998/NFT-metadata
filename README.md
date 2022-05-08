@@ -1,6 +1,6 @@
 # NFT-metadata
 
-For this example I used Moonbears
+For this example I used Moonbears.<br>
 There are several steps:
 
 1)Get the contract address (0x3B8420eB6EF77Bc25025b32D8205cde2683F979E)<br>
