@@ -1,5 +1,10 @@
 # NFT-metadata
 
+# Conda environment
+Ive cloned my conda environment, you can make a new one using:<br>
+conda env create -f metadata.yml
+
+# NFT scraping
 For this example I used Moonbears.<br>
 There are several steps:
 
